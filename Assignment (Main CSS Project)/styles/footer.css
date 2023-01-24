@@ -1,0 +1,14 @@
+.footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    margin-left: -12px;
+    margin-right: -12px;
+    margin-bottom: -12px;
+}

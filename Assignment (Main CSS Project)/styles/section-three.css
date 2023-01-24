@@ -1,0 +1,45 @@
+.third-section {
+    background-color: rgb(229, 231, 235);
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+}
+
+.container-3 {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    width: 800px;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+}
+
+.quote {
+    box-sizing: border-box;
+    display: block;
+    font-family: Roboto, sans-serif;
+    font-size: 36px;
+    font-style: light italic;
+    font-weight: 300;
+    color: #1F2937;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+}
+
+.quote-author {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-end;
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+}

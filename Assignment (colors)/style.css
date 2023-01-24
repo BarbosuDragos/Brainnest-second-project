@@ -1,0 +1,19 @@
+div {
+  color: aquamarine;
+}
+
+h1 {
+  color: purple;
+}
+
+h2 {
+  color: #8693d4;
+}
+
+h3 {
+  color: rgb(77, 148, 18);
+}
+
+h4 {
+  color: hsl(28, 62%, 65%);
+}
